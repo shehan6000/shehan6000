@@ -1,6 +1,6 @@
 # Hi, I'm Shehan Liyanaarachchi 👋
 
-**Data Scientist · Database Systems Researcher · M.Sc. in Information Technology (Data Science)**
+**Data Scientist · System Engineer · Researcher**
 
 I work at the intersection of **machine learning, large language models, and database systems**. I like building things from scratch, from storage engines to semantic search pipelines, and applying them to real-world problems in finance, business, and tourism analytics.
 
