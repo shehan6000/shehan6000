@@ -4,7 +4,6 @@
 
 I work at the intersection of **machine learning, large language models, and database systems**. I like building things from scratch, from storage engines to semantic search pipelines, and applying them to real-world problems in finance, business, and tourism analytics.
 
-🏆 Excellent Project Award (Best Master Project), KCGI, 2025
 
 ---
 
