@@ -69,8 +69,8 @@ I work at the intersection of **machine learning, large language models, and dat
 
 ## 🎓 Education
 
-- **M.Sc. in Information Technology (Data Science)**, Kyoto College of Graduate Studies for Informatics (KCGI), 2023-2025, CGPA 3.76/4.0
-- **B.B.A. in Finance**, University of Colombo, 2019-2023, CGPA 3.43/4.0
+- **M.Sc. in Information Technology (Data Science)**, Kyoto College of Graduate Studies for Informatics , 2023-2025
+- **B.B.A. in Finance**, University of Colombo, 2019-2023
 
 ## 🏅 Awards & Scholarships
 
